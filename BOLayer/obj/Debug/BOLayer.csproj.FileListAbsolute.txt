@@ -1,0 +1,6 @@
+C:\Users\Joohy\source\2021OOP\MyCardGame\BOLayer\bin\Debug\BOLayer.dll
+C:\Users\Joohy\source\2021OOP\MyCardGame\BOLayer\bin\Debug\BOLayer.pdb
+C:\Users\Joohy\source\2021OOP\MyCardGame\BOLayer\obj\Debug\BOLayer.csprojAssemblyReference.cache
+C:\Users\Joohy\source\2021OOP\MyCardGame\BOLayer\obj\Debug\BOLayer.csproj.CoreCompileInputs.cache
+C:\Users\Joohy\source\2021OOP\MyCardGame\BOLayer\obj\Debug\BOLayer.dll
+C:\Users\Joohy\source\2021OOP\MyCardGame\BOLayer\obj\Debug\BOLayer.pdb
